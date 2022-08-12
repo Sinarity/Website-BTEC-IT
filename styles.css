@@ -4,8 +4,8 @@ h1 {
     text-decoration: underline;
     text-transform: capitalize;
     text-anchor: middle;
-    font-size: 80px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    font-family: Tahoma, 'Times New Roman', Verdana, sans-serif
 }
 
 body {
