@@ -2,7 +2,7 @@
 This is simply a website project I have been working on for BTEC IT.
 Once this was handed in, I have decided to try and improve my website and see where this goes.
 
-Anyway, with all that being settled, here's a random ASCII image (Best viewed without line wrap):
+Anyway, with all that being settled, here's a random ASCII image (Best viewed without line wrap on GitHub or any text editor that allows you to view without line wrap):
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
